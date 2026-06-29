@@ -40,16 +40,14 @@ The dataset contains employee information including:
 
 ### Employee Engagement
 
-![Engagement Dashboard](Images/engagement_dashboard.png)
+![Engagement Dashboard](Images/Engagement_dashboard.png)
 
 ### Employee Satisfaction
 
-![Satisfaction Dashboard](Images/satisfaction_dashboard.png)
+![Satisfaction Dashboard](Images/Satisfaction_dashboard.png)
 
 ### Work-Life Balance
-
-![Work-Life Balance Dashboard](Images/work_life_balance_dashboard.png)
-
+![Work-Life Balance Dashboard](Images/Work_Life_balance_dashboard.png)
 ## Key Insights
 
 - Executive Office shows the highest employee engagement.
